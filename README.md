@@ -148,7 +148,7 @@ print(df.head(10))
 
 ### How to Run the Script
 
-1.  Save the code in a file named, for example, `scraper.py`.
+1.  Download `Web-Scraping-For-Dummies.py`.
 
 2.  Open your terminal or command prompt.
 
@@ -157,7 +157,7 @@ print(df.head(10))
 Bash
 
 ```
-python scraper.py
+python Web-Scraping-For-Dummies.py
 
 ```
 
