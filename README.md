@@ -1,6 +1,11 @@
 # Web-Scraping-For-Dummies
 ------------------------------
 
+
+https://github.com/user-attachments/assets/ebb8509c-d741-4a25-a3b6-bc587564340a
+
+
+
 Extract information (title and price) from the books listed on the demonstration website `http://books.toscrape.com/`.
 
 ### Prerequisites
